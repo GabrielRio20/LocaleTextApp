@@ -1,6 +1,6 @@
 <resources>
     <!-- All comments are notes to translators. -->
-    <string name="app_name">LocaleText</string>
+    <string name="app_name">Locale Text</string>
 
     <!-- The Help option in the options menu, no more than 30 chars. -->
     <string name="action_help">Help</string>
